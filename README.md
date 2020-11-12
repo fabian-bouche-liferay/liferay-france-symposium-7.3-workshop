@@ -1,0 +1,1 @@
+# liferay-france-symposium-7.3-workshop
