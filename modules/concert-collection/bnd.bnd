@@ -1,0 +1,4 @@
+Bundle-Name: concert-collection
+Bundle-SymbolicName: concert.collection
+Bundle-Version: 1.0.0
+Export-Package: concert.collection.constants
